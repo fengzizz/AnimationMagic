@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnimationMagic",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "NoName",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"EnabledByDefault": true,
+	"Installed": false,
+	"EngineVersion": "5.1.0",
+	"Modules": [
+		{
+			"Name": "AnimationMagic",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "AnimationMagicEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	]
+}
