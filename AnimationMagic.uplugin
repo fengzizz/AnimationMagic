@@ -3,9 +3,9 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "AnimationMagic",
-	"Description": "",
+	"Description": "Some nice ext.",
 	"Category": "Other",
-	"CreatedBy": "NoName",
+	"CreatedBy": "Fengzz",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -15,7 +15,14 @@
 	"IsExperimentalVersion": false,
 	"EnabledByDefault": true,
 	"Installed": false,
-	"EngineVersion": "5.1.0",
+	"WhitelistPlatforms": [
+		"Win64",
+		"Win32",
+		"Mac",
+		"IOS",
+		"Android"
+	],
+	"EngineVersion": "5.2.0",
 	"Modules": [
 		{
 			"Name": "AnimationMagic",
